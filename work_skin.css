@@ -1,0 +1,45 @@
+.l1 {
+  font-style: italic;
+}
+
+.l2 {
+  display: none;
+  font-style: italic;
+}
+
+.hide {
+  display: none;
+}
+
+.translate:hover .l1 {
+  display: none;
+}
+
+.translate:hover .l2 {
+  display: inline;
+}
+
+.in-text-footnote {
+  text-decoration: underline dotted;
+}
+
+.in-text-footnote .footnotetext {
+  visibility: hidden;
+  display: none;
+}
+
+.in-text-footnote:hover .footnotetext {
+  visibility: visible;
+  display: inline;
+  text-decoration: none;
+}
+
+.pretty-divider {
+  border-top: 3px dotted #bbb;
+}
+
+.pretty-divider .print {
+  text-align: center;
+  visibility: hidden;
+  display: none;
+}
