@@ -37,6 +37,15 @@ usage:
 ```
 <p align="center" class="pretty-divider"><span class="print">***</span></p>
 ```
+the divider is flexible to any width of the screen.
 in "print" goes whatever you want. it will always be hidden with the skin on, but will show centered without the skin (or when downloaded)
+
+how it looks:
+- with the skin:
+<img width="814" height="76" alt="изображение" src="https://github.com/user-attachments/assets/d44e3082-7416-435c-b7ad-f789bc0fe10b" />
+
+- downloaded | w/o the skin:
+<img width="811" height="103" alt="изображение" src="https://github.com/user-attachments/assets/726e7bd7-904d-4a25-ac47-0011e2475ddc" />
+
 
 ## all of the things above do not butcher the readability of the work w/o using creators skin or of the downloaded work!
